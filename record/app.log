@@ -1,0 +1,1102 @@
+2025-07-24 16:37:58,614 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 16:37:58,811 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 16:37:59,392 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 16:37:59,888 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 16:39:38,395 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 16:39:38,568 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 16:39:39,203 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 16:39:39,590 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 16:42:00,725 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 16:42:00,853 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 16:42:01,581 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 16:42:01,824 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 16:44:07,186 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 16:44:07,315 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 16:44:07,804 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 16:44:08,027 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 17:23:03,192 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 17:23:03,374 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 17:23:03,876 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 17:23:04,187 - INFO - JSONからファイルパスを取得: D:\ダウンロード\Image (30).jpg
+2025-07-24 17:23:04,215 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 17:23:16,384 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 17:23:16,550 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 17:23:17,006 - INFO - DNSキャッシュをクリアしました。
+2025-07-24 17:23:17,200 - INFO - JSONからファイルパスを取得: D:\ダウンロード\Image (30).jpg
+2025-07-24 17:23:17,226 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 10:01:52,267 - INFO - 録画クラスが初期化
+2025-07-28 10:01:53,338 - INFO - 録画を開始
+2025-07-28 10:02:10,663 - INFO - 録画停止の指示を受け取り
+2025-07-28 10:02:10,664 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 10:02:11,180 - INFO - 録画が終了。取得フレーム数: 338
+2025-07-28 10:02:11,750 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_100210.avi
+2025-07-28 10:14:43,342 - INFO - 録画クラスが初期化
+2025-07-28 10:14:43,515 - INFO - 録画を開始
+2025-07-28 10:14:54,917 - INFO - 録画停止の指示を受け取り
+2025-07-28 10:14:54,917 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 10:14:55,255 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_101454.avi
+2025-07-28 10:14:55,343 - INFO - 録画が終了。取得フレーム数: 248
+2025-07-28 10:15:00,624 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 10:15:00,865 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 10:15:01,460 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 10:15:01,801 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250728_101454.avi
+2025-07-28 10:15:01,834 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 10:15:02,940 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250728_101454.avi
+2025-07-28 10:18:57,031 - INFO - 録画クラスが初期化
+2025-07-28 10:18:57,153 - INFO - 録画を開始
+2025-07-28 10:19:13,245 - INFO - 録画停止の指示を受け取り
+2025-07-28 10:19:13,246 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 10:19:13,715 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_101913.avi
+2025-07-28 10:19:13,745 - INFO - 録画が終了。取得フレーム数: 360
+2025-07-28 10:19:15,046 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 10:19:15,186 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 10:19:15,760 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 10:19:15,941 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250728_101913.avi
+2025-07-28 10:19:15,971 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 10:19:16,624 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250728_101913.avi
+2025-07-28 11:14:22,239 - INFO - 録画クラスが初期化
+2025-07-28 11:14:22,644 - INFO - 録画を開始
+2025-07-28 11:14:37,950 - INFO - 録画停止の指示を受け取り
+2025-07-28 11:14:37,960 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 11:14:38,617 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_111437.avi
+2025-07-28 11:14:38,913 - INFO - 録画が終了。取得フレーム数: 302
+2025-07-28 11:14:41,303 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:14:41,498 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:14:42,297 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:14:42,514 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250728_111437.avi
+2025-07-28 11:14:42,561 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:14:43,400 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250728_111437.avi
+2025-07-28 11:18:54,672 - INFO - 録画クラスが初期化
+2025-07-28 11:18:54,822 - INFO - 録画を開始
+2025-07-28 11:19:02,062 - INFO - 録画停止の指示を受け取り
+2025-07-28 11:19:02,062 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 11:19:02,413 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_111902.avi
+2025-07-28 11:19:02,503 - INFO - 録画が終了。取得フレーム数: 144
+2025-07-28 11:19:04,201 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:19:04,212 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026873EF70E0>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)")': /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration
+2025-07-28 11:19:04,222 - ERROR - メイン処理中にエラー発生: HTTPSConnectionPool(host='login.microsoftonline.com', port=443): Max retries exceeded with url: /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026873F0FB10>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)"))
+Traceback (most recent call last):
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\staff1\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x0000026873F0FB10>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<13 lines>...
+        **response_kw,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='login.microsoftonline.com', port=443): Max retries exceeded with url: /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026873F0FB10>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\PythonCode\record\sp_save.py", line 110, in <module>
+    app = msal.ConfidentialClientApplication(
+        config["client_id"],
+        authority=config["authority"],
+        client_credential=config["secret"]
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\application.py", line 645, in __init__
+    self.authority = Authority(
+                     ~~~~~~~~~^
+        authority_to_use,
+        ^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        oidc_authority_url=oidc_authority,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\authority.py", line 79, in __init__
+    openid_config = tenant_discovery(
+        tenant_discovery_endpoint,
+        self._http_client)
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\authority.py", line 210, in tenant_discovery
+    resp = http_client.get(tenant_discovery_endpoint, **kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\individual_cache.py", line 273, in wrapper
+    value = function(*args, **kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\throttled_http_client.py", line 99, in get
+    return NormalizedResponse(self.http_client.get(*args, **kwargs))
+                              ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='login.microsoftonline.com', port=443): Max retries exceeded with url: /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026873F0FB10>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-28 11:19:04,571 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250728_111902.avi
+2025-07-28 11:19:57,083 - INFO - 録画クラスが初期化
+2025-07-28 11:19:57,239 - INFO - 録画を開始
+2025-07-28 11:20:06,796 - INFO - 録画停止の指示を受け取り
+2025-07-28 11:20:06,796 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 11:20:07,136 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_112006.avi
+2025-07-28 11:20:07,232 - INFO - 録画が終了。取得フレーム数: 152
+2025-07-28 11:20:08,950 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:20:08,973 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001AC7FB7EA50>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)")': /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration
+2025-07-28 11:20:08,974 - ERROR - メイン処理中にエラー発生: HTTPSConnectionPool(host='login.microsoftonline.com', port=443): Max retries exceeded with url: /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001AC7FB4B750>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)"))
+Traceback (most recent call last):
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\staff1\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x000001AC7FB4B750>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<13 lines>...
+        **response_kw,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='login.microsoftonline.com', port=443): Max retries exceeded with url: /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001AC7FB4B750>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\PythonCode\record\sp_save.py", line 120, in <module>
+    app = msal.ConfidentialClientApplication(
+        config["client_id"],
+        authority=config["authority"],
+        client_credential=config["secret"]
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\application.py", line 645, in __init__
+    self.authority = Authority(
+                     ~~~~~~~~~^
+        authority_to_use,
+        ^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        oidc_authority_url=oidc_authority,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\authority.py", line 79, in __init__
+    openid_config = tenant_discovery(
+        tenant_discovery_endpoint,
+        self._http_client)
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\authority.py", line 210, in tenant_discovery
+    resp = http_client.get(tenant_discovery_endpoint, **kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\individual_cache.py", line 273, in wrapper
+    value = function(*args, **kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\throttled_http_client.py", line 99, in get
+    return NormalizedResponse(self.http_client.get(*args, **kwargs))
+                              ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='login.microsoftonline.com', port=443): Max retries exceeded with url: /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001AC7FB4B750>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-28 11:20:09,141 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250728_112006.avi
+2025-07-28 11:20:58,931 - INFO - 録画クラスが初期化
+2025-07-28 11:20:59,085 - INFO - 録画を開始
+2025-07-28 11:21:05,890 - INFO - 録画停止の指示を受け取り
+2025-07-28 11:21:05,890 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 11:21:06,140 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_112105.avi
+2025-07-28 11:21:06,279 - INFO - 録画が終了。取得フレーム数: 134
+2025-07-28 11:21:07,921 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:21:08,084 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:21:08,670 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:21:08,890 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250728_112105.avi
+2025-07-28 11:21:08,937 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:21:09,713 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250728_112105.avi
+2025-07-28 11:27:10,188 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:27:10,380 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:27:10,842 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:27:11,038 - INFO - JSONからファイルパスを取得: D:\ダウンロード\Image (30).jpg
+2025-07-28 11:27:11,072 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:27:17,058 - INFO - 録画クラスが初期化
+2025-07-28 11:27:17,225 - INFO - 録画を開始
+2025-07-28 11:27:21,398 - INFO - 録画停止の指示を受け取り
+2025-07-28 11:27:21,398 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 11:27:21,398 - WARNING - 録画されたフレームが存在しないため、保存をスキップ
+2025-07-28 11:27:21,510 - INFO - 録画が終了。取得フレーム数: 0
+2025-07-28 11:27:53,177 - INFO - 録画クラスが初期化
+2025-07-28 11:27:53,355 - INFO - 録画を開始
+2025-07-28 11:27:59,741 - INFO - 録画停止の指示を受け取り
+2025-07-28 11:27:59,741 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 11:28:00,108 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_112759.avi
+2025-07-28 11:28:00,263 - INFO - 録画が終了。取得フレーム数: 117
+2025-07-28 11:28:01,800 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:28:01,996 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:28:02,471 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:28:02,719 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250728_112759.avi
+2025-07-28 11:28:02,752 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:28:03,527 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250728_112759.avi
+2025-07-28 11:28:49,318 - INFO - 録画クラスが初期化
+2025-07-28 11:28:49,497 - INFO - 録画を開始
+2025-07-28 11:28:59,089 - INFO - 録画停止の指示を受け取り
+2025-07-28 11:28:59,089 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 11:28:59,556 - INFO - 録画が終了。取得フレーム数: 214
+2025-07-28 11:28:59,714 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_112859.avi
+2025-07-28 11:29:01,443 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:29:01,455 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000018F51BAEA50>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)")': /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration
+2025-07-28 11:29:01,456 - ERROR - メイン処理中にエラー発生: HTTPSConnectionPool(host='login.microsoftonline.com', port=443): Max retries exceeded with url: /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000018F51B7B890>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)"))
+Traceback (most recent call last):
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\staff1\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x0000018F51B7B890>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<13 lines>...
+        **response_kw,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='login.microsoftonline.com', port=443): Max retries exceeded with url: /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000018F51B7B890>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\PythonCode\record\sp_save.py", line 135, in <module>
+    app = msal.ConfidentialClientApplication(
+        config["client_id"],
+        authority=config["authority"],
+        client_credential=config["secret"]
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\application.py", line 645, in __init__
+    self.authority = Authority(
+                     ~~~~~~~~~^
+        authority_to_use,
+        ^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        oidc_authority_url=oidc_authority,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\authority.py", line 79, in __init__
+    openid_config = tenant_discovery(
+        tenant_discovery_endpoint,
+        self._http_client)
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\authority.py", line 210, in tenant_discovery
+    resp = http_client.get(tenant_discovery_endpoint, **kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\individual_cache.py", line 273, in wrapper
+    value = function(*args, **kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\throttled_http_client.py", line 99, in get
+    return NormalizedResponse(self.http_client.get(*args, **kwargs))
+                              ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='login.microsoftonline.com', port=443): Max retries exceeded with url: /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000018F51B7B890>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-28 11:29:01,583 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250728_112859.avi
+2025-07-28 11:29:36,492 - INFO - 録画クラスが初期化
+2025-07-28 11:29:36,663 - INFO - 録画を開始
+2025-07-28 11:29:47,347 - INFO - 録画停止の指示を受け取り
+2025-07-28 11:29:47,347 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 11:29:47,872 - INFO - 録画が終了。取得フレーム数: 247
+2025-07-28 11:29:47,974 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_112947.avi
+2025-07-28 11:29:49,174 - ERROR - インターネット接続確認失敗: [WinError 10065] 到達できないホストに対してソケット操作を実行しようとしました。
+2025-07-28 11:29:49,642 - ERROR - sp_save.py の実行に失敗しました: Command '['D:\\PythonCode\\record\\record\\Scripts\\python.exe', 'd:\\PythonCode\\record\\sp_save.py', 'd:\\PythonCode\\record\\recording_20250728_112947.avi']' returned non-zero exit status 1.
+2025-07-28 11:43:53,549 - INFO - 録画クラスが初期化
+2025-07-28 11:43:53,763 - INFO - 録画を開始
+2025-07-28 11:44:06,578 - INFO - 録画停止の指示を受け取り
+2025-07-28 11:44:06,579 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 11:44:07,191 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_114406.avi
+2025-07-28 11:44:07,275 - INFO - 録画が終了。取得フレーム数: 309
+2025-07-28 11:44:08,960 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:44:08,974 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002423CB3EA50>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)")': /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration
+2025-07-28 11:44:08,974 - ERROR - メイン処理中にエラー発生: HTTPSConnectionPool(host='login.microsoftonline.com', port=443): Max retries exceeded with url: /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002423CB0B750>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)"))
+Traceback (most recent call last):
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\staff1\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x000002423CB0B750>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<13 lines>...
+        **response_kw,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='login.microsoftonline.com', port=443): Max retries exceeded with url: /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002423CB0B750>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\PythonCode\record\sp_save.py", line 114, in <module>
+    app = msal.ConfidentialClientApplication(
+        config["client_id"],
+        authority=config["authority"],
+        client_credential=config["secret"]
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\application.py", line 645, in __init__
+    self.authority = Authority(
+                     ~~~~~~~~~^
+        authority_to_use,
+        ^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        oidc_authority_url=oidc_authority,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\authority.py", line 79, in __init__
+    openid_config = tenant_discovery(
+        tenant_discovery_endpoint,
+        self._http_client)
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\authority.py", line 210, in tenant_discovery
+    resp = http_client.get(tenant_discovery_endpoint, **kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\individual_cache.py", line 273, in wrapper
+    value = function(*args, **kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\throttled_http_client.py", line 99, in get
+    return NormalizedResponse(self.http_client.get(*args, **kwargs))
+                              ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='login.microsoftonline.com', port=443): Max retries exceeded with url: /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002423CB0B750>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-28 11:44:09,104 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250728_114406.avi
+2025-07-28 11:44:40,741 - INFO - 録画クラスが初期化
+2025-07-28 11:44:40,902 - INFO - 録画を開始
+2025-07-28 11:44:46,885 - INFO - 録画停止の指示を受け取り
+2025-07-28 11:44:46,886 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 11:44:47,138 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_114446.avi
+2025-07-28 11:44:47,330 - INFO - 録画が終了。取得フレーム数: 108
+2025-07-28 11:44:48,736 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:44:48,748 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000161F0A5EA50>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)")': /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration
+2025-07-28 11:44:48,749 - ERROR - メイン処理中にエラー発生: HTTPSConnectionPool(host='login.microsoftonline.com', port=443): Max retries exceeded with url: /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000161F0A2B750>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)"))
+Traceback (most recent call last):
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\staff1\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000161F0A2B750>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<13 lines>...
+        **response_kw,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='login.microsoftonline.com', port=443): Max retries exceeded with url: /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000161F0A2B750>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\PythonCode\record\sp_save.py", line 114, in <module>
+    app = msal.ConfidentialClientApplication(
+        config["client_id"],
+        authority=config["authority"],
+        client_credential=config["secret"]
+    )
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\application.py", line 645, in __init__
+    self.authority = Authority(
+                     ~~~~~~~~~^
+        authority_to_use,
+        ^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        oidc_authority_url=oidc_authority,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\authority.py", line 79, in __init__
+    openid_config = tenant_discovery(
+        tenant_discovery_endpoint,
+        self._http_client)
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\authority.py", line 210, in tenant_discovery
+    resp = http_client.get(tenant_discovery_endpoint, **kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\individual_cache.py", line 273, in wrapper
+    value = function(*args, **kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\msal\throttled_http_client.py", line 99, in get
+    return NormalizedResponse(self.http_client.get(*args, **kwargs))
+                              ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\PythonCode\record\record\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='login.microsoftonline.com', port=443): Max retries exceeded with url: /887637dd-0ecf-409b-84c5-1082b46e1e06/v2.0/.well-known/openid-configuration (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000161F0A2B750>: Failed to resolve 'login.microsoftonline.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-28 11:44:48,886 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250728_114446.avi
+2025-07-28 11:45:08,970 - INFO - 録画クラスが初期化
+2025-07-28 11:45:09,193 - INFO - 録画を開始
+2025-07-28 11:45:14,906 - INFO - 録画停止の指示を受け取り
+2025-07-28 11:45:14,906 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 11:45:15,094 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_114514.avi
+2025-07-28 11:45:15,365 - INFO - 録画が終了。取得フレーム数: 86
+2025-07-28 11:45:16,798 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:45:16,956 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:45:17,421 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:45:17,619 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250728_114514.avi
+2025-07-28 11:45:17,664 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 11:45:18,399 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250728_114514.avi
+2025-07-28 11:53:30,806 - INFO - ユーザー名が入力されました: iwasaki
+2025-07-28 11:53:55,089 - INFO - 録画クラスが初期化
+2025-07-28 11:53:55,273 - INFO - 録画を開始
+2025-07-28 11:53:58,955 - WARNING - 録画されたフレームが存在しないため、保存をスキップ
+2025-07-28 11:55:38,012 - INFO - ユーザー名が入力されました: iwasaki
+2025-07-28 11:55:49,876 - INFO - 録画クラスが初期化
+2025-07-28 11:55:50,015 - INFO - 録画を開始
+2025-07-28 11:55:52,917 - WARNING - 録画されたフレームが存在しないため、保存をスキップ
+2025-07-28 11:58:22,183 - INFO - ユーザー名が入力されました: iwasaki
+2025-07-28 11:58:39,173 - INFO - 録画クラスが初期化
+2025-07-28 11:58:39,173 - INFO - 録画停止の指示を受け取り
+2025-07-28 11:58:39,173 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 11:58:39,174 - INFO - 録画クラスが初期化
+2025-07-28 11:58:39,320 - INFO - 録画を開始
+2025-07-28 11:58:40,693 - WARNING - 録画されたフレームが存在しないため、保存をスキップ
+2025-07-28 12:02:13,147 - INFO - 録画クラスが初期化
+2025-07-28 12:02:20,050 - INFO - ユーザー名が入力されました: iwasaki
+2025-07-28 12:02:20,213 - INFO - 録画を開始
+2025-07-28 12:02:29,141 - INFO - 録画停止の指示を受け取り
+2025-07-28 12:02:29,141 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 12:02:29,384 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_120229.avi
+2025-07-28 12:02:29,651 - INFO - 録画が終了。取得フレーム数: 216
+2025-07-28 12:02:30,703 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 12:02:30,862 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 12:02:31,260 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 12:02:31,456 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250728_120229.avi
+2025-07-28 12:02:31,485 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 12:02:32,297 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250728_120229.avi
+2025-07-28 12:06:54,725 - INFO - 録画クラスが初期化
+2025-07-28 12:06:58,517 - INFO - ユーザー名が入力されました: iwasaki
+2025-07-28 12:06:58,768 - INFO - 録画を開始
+2025-07-28 12:07:05,763 - INFO - 録画停止の指示を受け取り
+2025-07-28 12:07:05,778 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 12:07:05,970 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_120705.avi
+2025-07-28 12:07:06,222 - INFO - 録画が終了。取得フレーム数: 103
+2025-07-28 12:07:07,391 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 12:07:07,574 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 12:07:07,987 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 12:07:08,290 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250728_120705.avi
+2025-07-28 12:07:08,321 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 12:07:09,045 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250728_120705.avi
+2025-07-28 12:13:47,735 - INFO - 録画クラスが初期化
+2025-07-28 12:13:55,223 - INFO - ユーザー名が入力されました: いわさき
+2025-07-28 12:13:55,398 - INFO - 録画を開始
+2025-07-28 12:14:06,639 - INFO - 録画停止の指示を受け取り
+2025-07-28 12:14:06,665 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 12:14:07,009 - INFO - 録画が終了。取得フレーム数: 233
+2025-07-28 12:14:07,116 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_121406_いわさき.avi
+2025-07-28 12:14:08,435 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 12:14:08,579 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 12:14:09,237 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 12:14:09,417 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250728_121406_いわさき.avi
+2025-07-28 12:14:09,443 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 12:14:10,109 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250728_121406_いわさき.avi
+2025-07-28 12:17:55,212 - INFO - 録画クラスが初期化
+2025-07-28 12:18:20,922 - INFO - 録画クラスが初期化
+2025-07-28 12:18:30,927 - INFO - 録画クラスが初期化
+2025-07-28 12:44:23,535 - INFO - 録画クラスが初期化
+2025-07-28 12:44:53,926 - INFO - 録画クラスが初期化
+2025-07-28 12:45:10,837 - INFO - 録画クラスが初期化
+2025-07-28 12:45:20,756 - INFO - 録画クラスが初期化
+2025-07-28 12:52:10,480 - INFO - 録画クラスが初期化
+2025-07-28 12:52:15,846 - INFO - ユーザー名が入力されました: iwasaki
+2025-07-28 12:52:15,997 - INFO - 録画を開始
+2025-07-28 12:52:47,070 - INFO - 録画停止の指示を受け取り
+2025-07-28 12:52:47,093 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 12:52:47,479 - INFO - 録画が終了。取得フレーム数: 838
+2025-07-28 12:52:48,424 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_125247_iwasaki.avi
+2025-07-28 12:52:49,785 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 12:52:49,984 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 12:52:50,451 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 12:52:50,658 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250728_125247_iwasaki.avi
+2025-07-28 12:52:50,688 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 12:52:51,790 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250728_125247_iwasaki.avi
+2025-07-28 15:59:53,748 - INFO - 録画クラスが初期化
+2025-07-28 16:00:00,119 - INFO - ユーザー名が入力されました: iwasaki
+2025-07-28 16:00:00,297 - INFO - 録画を開始
+2025-07-28 16:00:10,081 - INFO - 録画停止の指示を受け取り
+2025-07-28 16:00:10,097 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 16:00:10,408 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_160010_iwasaki.avi
+2025-07-28 16:00:10,548 - INFO - 録画が終了。取得フレーム数: 202
+2025-07-28 16:13:22,091 - INFO - 録画クラスが初期化
+2025-07-28 16:13:26,216 - INFO - ユーザー名が入力されました: 12315648
+2025-07-28 16:13:26,400 - INFO - 録画を開始
+2025-07-28 16:13:34,091 - INFO - 録画停止の指示を受け取り
+2025-07-28 16:13:34,106 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 16:13:34,341 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_161334_12315648.avi
+2025-07-28 16:13:34,550 - INFO - 録画が終了。取得フレーム数: 140
+2025-07-28 16:13:58,019 - INFO - 録画クラスが初期化
+2025-07-28 16:14:00,665 - INFO - ユーザー名が入力されました: asdsfghfjgk
+2025-07-28 16:14:00,938 - INFO - 録画を開始
+2025-07-28 16:14:14,496 - INFO - 録画停止の指示を受け取り
+2025-07-28 16:14:14,511 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 16:14:14,964 - INFO - 録画が終了。取得フレーム数: 353
+2025-07-28 16:14:15,092 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_161414_asdsfghfjgk.avi
+2025-07-28 16:14:15,496 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 16:14:15,627 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 16:14:15,627 - ERROR - アクセストークン取得失敗: 'function' object has no attribute 'app'
+Traceback (most recent call last):
+  File "d:\PythonCode\record\sp_save.py", line 48, in get_access_token
+    result = upload_file_to_graph.app.acquire_token_for_client(scopes=upload_file_to_graph.app.config["scope"])
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'function' object has no attribute 'app'
+2025-07-28 16:14:15,629 - ERROR - トークン取得失敗: {}
+2025-07-28 16:14:15,629 - ERROR - Graph APIデータ取得失敗: MS Graph API呼び出し失敗
+Traceback (most recent call last):
+  File "d:\PythonCode\record\sp_save.py", line 71, in get_some_data_from_graph_api
+    raise Exception("MS Graph API呼び出し失敗")
+Exception: MS Graph API呼び出し失敗
+2025-07-28 16:14:15,629 - ERROR - メイン処理中にエラー発生: サイト名 'コミュニケーション サイト' が見つかりません。
+Traceback (most recent call last):
+  File "d:\PythonCode\record\sp_save.py", line 125, in upload_file_to_graph
+    raise Exception(f"サイト名 '{target_site_name}' が見つかりません。")
+Exception: サイト名 'コミュニケーション サイト' が見つかりません。
+2025-07-28 16:14:15,657 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 16:14:15,804 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 16:14:15,804 - ERROR - アクセストークン取得失敗: 'function' object has no attribute 'app'
+Traceback (most recent call last):
+  File "d:\PythonCode\record\sp_save.py", line 48, in get_access_token
+    result = upload_file_to_graph.app.acquire_token_for_client(scopes=upload_file_to_graph.app.config["scope"])
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'function' object has no attribute 'app'
+2025-07-28 16:14:15,805 - ERROR - トークン取得失敗: {}
+2025-07-28 16:14:15,805 - ERROR - Graph APIデータ取得失敗: MS Graph API呼び出し失敗
+Traceback (most recent call last):
+  File "d:\PythonCode\record\sp_save.py", line 71, in get_some_data_from_graph_api
+    raise Exception("MS Graph API呼び出し失敗")
+Exception: MS Graph API呼び出し失敗
+2025-07-28 16:14:15,805 - ERROR - メイン処理中にエラー発生: サイト名 'コミュニケーション サイト' が見つかりません。
+Traceback (most recent call last):
+  File "d:\PythonCode\record\sp_save.py", line 125, in upload_file_to_graph
+    raise Exception(f"サイト名 '{target_site_name}' が見つかりません。")
+Exception: サイト名 'コミュニケーション サイト' が見つかりません。
+2025-07-28 16:14:15,806 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250728_161414_asdsfghfjgk.avi
+2025-07-28 16:42:54,112 - INFO - 録画クラスが初期化
+2025-07-28 16:42:59,405 - INFO - ユーザー名が入力されました: iwasaki
+2025-07-28 16:42:59,660 - INFO - 録画を開始
+2025-07-28 16:43:08,848 - INFO - 録画停止の指示を受け取り
+2025-07-28 16:43:08,864 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 16:43:09,309 - INFO - 録画が終了。取得フレーム数: 174
+2025-07-28 16:43:09,338 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_164308_iwasaki.avi
+2025-07-28 17:05:35,996 - INFO - 録画クラスが初期化
+2025-07-28 17:05:39,847 - INFO - ユーザー名が入力されました: iwasaki
+2025-07-28 17:05:40,021 - INFO - 録画を開始
+2025-07-28 17:05:55,998 - INFO - 録画停止の指示を受け取り
+2025-07-28 17:05:56,010 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-28 17:05:56,534 - INFO - 録画が終了。取得フレーム数: 387
+2025-07-28 17:05:56,732 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250728_170556_iwasaki.avi
+2025-07-28 17:05:57,135 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 17:05:57,294 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 17:05:57,907 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 17:05:58,099 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250728_170556_iwasaki.avi
+2025-07-28 17:05:58,130 - INFO - DNSキャッシュをクリアしました。
+2025-07-28 17:05:59,146 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250728_170556_iwasaki.avi
+2025-07-31 13:43:55,370 - INFO - 録画クラスが初期化
+2025-07-31 13:44:06,696 - INFO - ユーザー名が入力されました: iwasaki
+2025-07-31 13:44:06,898 - INFO - 録画を開始
+2025-07-31 13:56:48,783 - INFO - 録画停止の指示を受け取り
+2025-07-31 13:56:48,821 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-31 13:57:11,582 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250731_135648_iwasaki.mp4
+2025-07-31 13:57:12,028 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 13:57:12,250 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 13:57:12,931 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 13:57:13,323 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250731_135648_iwasaki.mp4
+2025-07-31 13:57:13,350 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 13:57:35,111 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250731_135648_iwasaki.mp4
+2025-07-31 15:10:40,047 - INFO - 録画クラスが初期化
+2025-07-31 15:10:44,992 - INFO - ユーザー名が入力されました: iwasaki
+2025-07-31 15:10:45,186 - INFO - 録画を開始
+2025-07-31 16:02:33,824 - INFO - 録画停止の指示を受け取り
+2025-07-31 16:02:33,914 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-31 16:03:12,705 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250731_160233_iwasaki.mp4
+2025-07-31 16:03:13,208 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 16:03:13,452 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 16:03:13,982 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 16:03:14,305 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250731_160233_iwasaki.mp4
+2025-07-31 16:03:14,338 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 16:03:16,196 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250731_160233_iwasaki.mp4
+2025-07-31 16:22:02,670 - INFO - 録画クラスが初期化
+2025-07-31 16:22:11,129 - INFO - ユーザー名が入力されました: いわさき
+2025-07-31 16:22:11,310 - INFO - 録画を開始
+2025-07-31 16:32:57,931 - WARNING - カメラからフレームの取得に失敗
+2025-07-31 16:33:22,772 - INFO - 録画が終了。取得フレーム数: 18492
+2025-07-31 16:33:47,988 - INFO - 録画停止の指示を受け取り
+2025-07-31 16:33:48,056 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-31 16:34:06,679 - INFO - 録画ファイルを保存しました: d:\PythonCode\record\recording_20250731_163348_いわさき.mp4
+2025-07-31 16:34:07,187 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 16:34:07,375 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 16:34:07,883 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 16:34:08,095 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250731_163348_いわさき.mp4
+2025-07-31 16:34:08,124 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 16:34:10,709 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250731_163348_いわさき.mp4
+2025-07-31 16:40:17,284 - INFO - 録画クラスが初期化
+2025-07-31 16:40:22,810 - INFO - ユーザー名が入力されました: いわさき
+2025-07-31 16:40:23,007 - INFO - 録画を開始
+2025-07-31 17:13:50,874 - INFO - 録画停止の指示を受け取り
+2025-07-31 17:13:50,905 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-31 17:13:51,380 - INFO - 録画が終了。ファイル保存済み: d:\PythonCode\record\recording_20250731_164026_いわさき.mp4
+2025-07-31 17:20:49,030 - INFO - 録画クラスが初期化
+2025-07-31 17:20:53,948 - INFO - ユーザー名が入力されました: aaaaaaaaa
+2025-07-31 17:20:54,132 - INFO - 録画を開始
+2025-07-31 17:21:05,483 - INFO - 録画停止の指示を受け取り
+2025-07-31 17:21:05,516 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-31 17:21:05,986 - INFO - 録画が終了。ファイル保存済み: d:\PythonCode\record\recording_20250731_172057_aaaaaaaaa.mp4
+2025-07-31 18:29:21,183 - INFO - 録画クラスが初期化
+2025-07-31 18:31:08,683 - INFO - ユーザー名が入力されました: iwasaki
+2025-07-31 18:31:08,881 - INFO - 録画を開始
+2025-07-31 18:33:05,526 - INFO - 録画停止の指示を受け取り
+2025-07-31 18:33:05,560 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-31 18:33:05,947 - INFO - 録画が終了。ファイル保存済み: d:\PythonCode\record\recording_20250731_183112_iwasaki.mp4
+2025-07-31 18:33:05,994 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 18:33:06,152 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 18:33:06,707 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 18:33:07,026 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250731_183112_iwasaki.mp4
+2025-07-31 18:33:07,058 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 18:33:08,909 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250731_183112_iwasaki.mp4
+2025-07-31 18:49:47,731 - INFO - 録画クラスが初期化
+2025-07-31 18:49:50,942 - INFO - ユーザー名が入力されました: wefrsdgtfyu
+2025-07-31 18:49:51,156 - INFO - 録画を開始
+2025-07-31 18:50:21,386 - INFO - 録画停止の指示を受け取り
+2025-07-31 18:50:21,431 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-07-31 18:50:21,860 - INFO - 録画が終了。ファイル保存済み: d:\PythonCode\record\recording_20250731_184955_wefrsdgtfyu.mp4
+2025-07-31 18:50:21,975 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 18:50:22,132 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 18:50:22,623 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 18:50:22,820 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250731_184955_wefrsdgtfyu.zip
+2025-07-31 18:50:22,855 - INFO - DNSキャッシュをクリアしました。
+2025-07-31 18:50:23,427 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250731_184955_wefrsdgtfyu.zip
+2025-08-01 13:05:40,912 - INFO - 録画クラスが初期化
+2025-08-01 13:05:46,755 - INFO - ユーザー名が入力されました: iwasaki
+2025-08-01 13:05:46,951 - INFO - 録画を開始
+2025-08-01 13:05:59,550 - INFO - 録画停止の指示を受け取り
+2025-08-01 13:05:59,569 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-08-01 13:06:00,092 - INFO - 録画が終了。ファイル保存済み: d:\PythonCode\record\recording_20250801_130555_iwasaki.mp4
+2025-08-01 13:06:02,130 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:06:02,407 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:06:03,135 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:06:03,553 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250801_130555_iwasaki.zip
+2025-08-01 13:06:03,586 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:06:04,243 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250801_130555_iwasaki.zip
+2025-08-01 13:09:25,989 - INFO - 録画クラスが初期化
+2025-08-01 13:09:30,281 - INFO - ユーザー名が入力されました: iwasaki
+2025-08-01 13:09:30,537 - INFO - 録画を開始
+2025-08-01 13:19:39,889 - INFO - 録画停止の指示を受け取り
+2025-08-01 13:19:39,924 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-08-01 13:19:40,385 - INFO - 録画が終了。ファイル保存済み: d:\PythonCode\record\recording_20250801_130934_iwasaki.mp4
+2025-08-01 13:19:43,953 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:19:44,077 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:19:44,552 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:19:44,765 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250801_130934_iwasaki.zip
+2025-08-01 13:19:44,797 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:19:53,070 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250801_130934_iwasaki.zip
+2025-08-01 13:26:56,263 - INFO - 録画クラスが初期化
+2025-08-01 13:27:01,529 - INFO - ユーザー名が入力されました: oijhserdtryu
+2025-08-01 13:27:01,724 - INFO - 録画を開始
+2025-08-01 13:27:29,903 - INFO - 録画停止の指示を受け取り
+2025-08-01 13:27:29,935 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-08-01 13:27:30,436 - INFO - 録画が終了。ファイル保存済み: d:\PythonCode\record\recording_20250801_132705_oijhserdtryu.mp4
+2025-08-01 13:27:30,519 - INFO - 録画ファイルをZIP化しました: d:\PythonCode\record\recording_20250801_132705_oijhserdtryu.zip
+2025-08-01 13:27:30,952 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:27:31,091 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:27:31,642 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:27:31,870 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250801_132705_oijhserdtryu.zip
+2025-08-01 13:27:31,904 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:27:32,592 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250801_132705_oijhserdtryu.zip
+2025-08-01 13:28:33,933 - INFO - 録画クラスが初期化
+2025-08-01 13:28:39,530 - INFO - ユーザー名が入力されました: dsfghjkl;kjhgfdghjkl;
+2025-08-01 13:28:39,698 - INFO - 録画を開始
+2025-08-01 13:35:14,360 - INFO - 録画停止の指示を受け取り
+2025-08-01 13:35:14,412 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-08-01 13:35:14,803 - INFO - 録画が終了。ファイル保存済み: d:\PythonCode\record\recording_20250801_132843_dsfghjkl;kjhgfdghjkl;.mp4
+2025-08-01 13:35:15,857 - INFO - 録画ファイルをZIP化しました: d:\PythonCode\record\recording_20250801_132843_dsfghjkl;kjhgfdghjkl;.zip
+2025-08-01 13:35:16,323 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:35:16,501 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:35:16,982 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:35:17,299 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250801_132843_dsfghjkl;kjhgfdghjkl;.zip
+2025-08-01 13:35:17,331 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:35:19,237 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250801_132843_dsfghjkl;kjhgfdghjkl;.zip
+2025-08-01 13:41:09,835 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:41:09,983 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:41:10,471 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:41:10,707 - INFO - JSONからファイルパスを取得: D:\ダウンロード\Image (30).jpg
+2025-08-01 13:41:10,741 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:41:17,945 - INFO - 録画クラスが初期化
+2025-08-01 13:43:55,712 - INFO - 録画クラスが初期化
+2025-08-01 13:44:00,735 - INFO - ユーザー名が入力されました: iwasaki
+2025-08-01 13:44:00,921 - INFO - 録画を開始
+2025-08-01 13:45:27,015 - INFO - 録画停止の指示を受け取り
+2025-08-01 13:45:27,046 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-08-01 13:45:27,428 - INFO - 録画が終了。ファイル保存済み: d:\PythonCode\record\recording_20250801_134404_iwasaki.mp4
+2025-08-01 13:45:27,626 - INFO - 録画ファイルをZIP化しました: d:\PythonCode\record\recording_20250801_134404_iwasaki.zip
+2025-08-01 13:45:28,091 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:45:28,372 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:45:28,897 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:45:29,121 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250801_134404_iwasaki.zip
+2025-08-01 13:45:29,151 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:45:29,936 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250801_134404_iwasaki.zip
+2025-08-01 13:46:09,874 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:46:10,116 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:46:10,611 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:46:10,830 - INFO - JSONからファイルパスを取得: D:\ダウンロード\Image (30).jpg
+2025-08-01 13:46:10,861 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:46:29,918 - INFO - 録画クラスが初期化
+2025-08-01 13:46:32,235 - INFO - ユーザー名が入力されました: uyfki
+2025-08-01 13:46:32,391 - INFO - 録画を開始
+2025-08-01 13:46:40,313 - INFO - 録画停止の指示を受け取り
+2025-08-01 13:46:40,331 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-08-01 13:46:40,750 - INFO - 録画が終了。ファイル保存済み: d:\PythonCode\record\recording_20250801_134635_uyfki.mp4
+2025-08-01 13:46:40,770 - INFO - 録画ファイルをZIP化しました: d:\PythonCode\record\recording_20250801_134635_uyfki.zip
+2025-08-01 13:46:41,156 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:46:41,293 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:46:41,869 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:46:42,145 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250801_134635_uyfki.zip
+2025-08-01 13:46:42,172 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:46:42,796 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250801_134635_uyfki.zip
+2025-08-01 13:47:56,412 - INFO - 録画クラスが初期化
+2025-08-01 13:48:01,557 - INFO - ユーザー名が入力されました: iwasaki
+2025-08-01 13:48:01,714 - INFO - 録画を開始
+2025-08-01 13:48:08,502 - INFO - 録画停止の指示を受け取り
+2025-08-01 13:48:08,519 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-08-01 13:48:08,967 - INFO - 録画が終了。ファイル保存済み: d:\PythonCode\record\recording_20250801_134804_iwasaki.mp4
+2025-08-01 13:48:08,988 - INFO - 録画ファイルをZIP化しました: d:\PythonCode\record\recording_20250801_134804_iwasaki.zip
+2025-08-01 13:48:09,400 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:48:09,549 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:48:10,057 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:48:10,227 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250801_134804_iwasaki.zip
+2025-08-01 13:48:10,253 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:48:10,955 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250801_134804_iwasaki.zip
+2025-08-01 13:51:39,803 - INFO - 録画クラスが初期化
+2025-08-01 13:51:49,746 - INFO - ユーザー名が入力されました: iwasaki
+2025-08-01 13:51:49,933 - INFO - 録画を開始
+2025-08-01 13:52:14,411 - INFO - 録画停止の指示を受け取り
+2025-08-01 13:52:14,443 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-08-01 13:52:14,880 - INFO - 録画が終了。ファイル保存済み: d:\PythonCode\record\recording_20250801_135153_iwasaki.mp4
+2025-08-01 13:52:14,974 - INFO - 録画ファイルをZIP化しました: d:\PythonCode\record\recording_20250801_135153_iwasaki.zip
+2025-08-01 13:52:15,415 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:52:15,555 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:52:16,114 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:52:16,324 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250801_135153_iwasaki.zip
+2025-08-01 13:52:16,361 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:52:17,055 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250801_135153_iwasaki.zip
+2025-08-01 13:56:43,423 - INFO - 録画クラスが初期化
+2025-08-01 13:56:48,236 - INFO - ユーザー名が入力されました: iawgrhtjhj
+2025-08-01 13:56:48,430 - INFO - 録画を開始
+2025-08-01 13:57:38,653 - INFO - 録画停止の指示を受け取り
+2025-08-01 13:57:38,672 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-08-01 13:57:39,141 - INFO - 録画が終了。ファイル保存済み: d:\PythonCode\record\recording_20250801_135651_iawgrhtjhj.mp4
+2025-08-01 13:57:39,377 - INFO - 録画ファイルをZIP化しました: d:\PythonCode\record\recording_20250801_135651_iawgrhtjhj.zip
+2025-08-01 13:57:40,762 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:57:41,020 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:57:41,461 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:57:41,788 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250801_135651_iawgrhtjhj.zip
+2025-08-01 13:57:41,818 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 13:57:48,724 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250801_135651_iawgrhtjhj.zip
+2025-08-01 14:01:51,584 - INFO - 録画クラスが初期化
+2025-08-01 14:01:56,544 - INFO - ユーザー名が入力されました: iwasaki
+2025-08-01 14:01:56,726 - INFO - 録画を開始
+2025-08-01 14:02:06,261 - INFO - 録画停止の指示を受け取り
+2025-08-01 14:02:06,282 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-08-01 14:02:06,700 - INFO - 録画が終了。ファイル保存済み: d:\PythonCode\record\recording_20250801_140200_iwasaki.mp4
+2025-08-01 14:02:06,758 - INFO - 録画ファイルをZIP化しました: d:\PythonCode\record\recording_20250801_140200_iwasaki.zip
+2025-08-01 14:02:08,310 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 14:02:08,476 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 14:02:09,035 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 14:02:09,245 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250801_140200_iwasaki.zip
+2025-08-01 14:02:09,277 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 14:02:12,908 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250801_140200_iwasaki.zip
+2025-08-01 14:03:22,995 - INFO - 録画クラスが初期化
+2025-08-01 14:03:36,676 - INFO - 録画クラスが初期化
+2025-08-01 14:03:51,453 - INFO - ユーザー名が入力されました: poiukjhg
+2025-08-01 14:03:51,641 - INFO - 録画を開始
+2025-08-01 14:44:41,263 - INFO - 録画停止の指示を受け取り
+2025-08-01 14:44:41,290 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-08-01 14:44:41,750 - INFO - 録画が終了。ファイル保存済み: d:\PythonCode\record\recording_20250801_140355_poiukjhg.mp4
+2025-08-01 14:44:46,321 - INFO - 録画ファイルをZIP化しました: d:\PythonCode\record\recording_20250801_140355_poiukjhg.zip
+2025-08-01 14:44:47,724 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 14:44:47,879 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 14:44:48,400 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 14:44:48,751 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250801_140355_poiukjhg.zip
+2025-08-01 14:44:48,787 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 14:44:58,562 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250801_140355_poiukjhg.zip
+2025-08-01 14:51:58,929 - INFO - 録画クラスが初期化
+2025-08-01 14:52:01,988 - INFO - ユーザー名が入力されました: iwasaki
+2025-08-01 14:52:02,153 - INFO - 録画を開始
+2025-08-01 14:52:09,124 - INFO - 録画停止の指示を受け取り
+2025-08-01 14:52:09,138 - INFO - 停止ボタンがクリックされ、GUIを終了
+2025-08-01 14:52:09,628 - INFO - 録画が終了。ファイル保存済み: d:\PythonCode\record\recording_20250801_145205_iwasaki.mp4
+2025-08-01 14:52:09,651 - INFO - 録画ファイルをZIP化しました: d:\PythonCode\record\recording_20250801_145205_iwasaki.zip
+2025-08-01 14:52:11,046 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 14:52:11,206 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 14:52:11,869 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 14:52:12,084 - INFO - 引数からファイルパスを取得: d:\PythonCode\record\recording_20250801_145205_iwasaki.zip
+2025-08-01 14:52:12,118 - INFO - DNSキャッシュをクリアしました。
+2025-08-01 14:52:13,764 - INFO - sp_save.py を実行しました。ファイルパス: d:\PythonCode\record\recording_20250801_145205_iwasaki.zip
